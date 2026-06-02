@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🛡️ [Lietoo7] | Cybersecurity R&D
 
-<!--
-**lietoo7/lietoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a security enthusiast focused on malware analysis, reverse engineering, and low-level development. I use this GitHub space to document my research, share security tools, and map my continuous learning journey in Windows/Linux environments.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `C / C++` `PowerShell` `Assembly (x86/x64)` |
+| **Analysis & Reversing** | `Ghidra` `IDA Pro` `Wireshark` `x64dbg` `Sysinternals` |
+| **Environments** | `Windows Server / Active Directory` `Linux Fundamentals` |
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lietoo7&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lietoo7&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### Core Focus & Research
+*   **Malware Analysis & Reverse Engineering:** Understanding execution flows, evasion techniques, and obfuscation.
+*   **Windows Security & Active Directory:** Deep diving into internal mechanisms, AD architecture, and defense tactics.
+*   **Tool Development:** Building lightweight security tools and proof-of-concepts (PoCs).
+
+---
