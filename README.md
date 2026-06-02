@@ -13,6 +13,6 @@ I am a security enthusiast focused on malware analysis, reverse engineering, and
 | **Framework** | `MITRE ATT&CK` `Kill Chain` `DREAD ` `MISP ` |
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lietoo7&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lietoo7&theme=dark&hide_border=true" alt="GitHub Streak" width="98%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lietoo7&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
