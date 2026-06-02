@@ -1,6 +1,6 @@
 # 🛡️ [Lietoo7] | Cybersecurity R&D
 
-I am a security enthusiast focused on malware analysis, reverse engineering, and low-level development. I use this GitHub space to document my research, share security tools, and map my continuous learning journey in Windows/Linux environments.
+I am a security enthusiast focused on malware analysis, reverse engineering, electronics, and low-level development. I use this GitHub space to share my projects, document my research, publish tools, and track my continuous learning journey.
 
 ### 🛠️ Tech Stack & Toolbox
 
