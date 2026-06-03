@@ -9,6 +9,7 @@ I am a security enthusiast focused on malware analysis, reverse engineering, ele
 | **Languages** | `Python` `C / C++` `PowerShell` `Assembly (x86/x64)` `Webdev` `Rust` `JAVA` |
 | **Analysis & Reversing** | `Ghidra` `GDB` `BurpSuite` `Wireshark` `x64dbg` `Sysinternals` `Autopsy ` `enum4linux` `WinPEAS ` |
 | **Cracking** | `Hashcat ` `hydra` `Aircrack-ng`|
+| **HardWare** | `Flipper0` `RaspberryPi` `Arduino` `esp32` |
 | **Environments** | `Windows Server` / `REDHATLinux` |
 | **Monitoring&Supervision** | `Prometheus ` `Zabbix` `Grafana ` `Graphite` `ntopng ` `ELK stack` |
 | **Framework** | `MITRE ATT&CK` `Kill Chain` `DREAD ` `MISP ` |
