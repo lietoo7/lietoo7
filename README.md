@@ -6,7 +6,7 @@ I am a security enthusiast focused on malware analysis, reverse engineering, ele
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | `Python` `C / C++` `PowerShell` `Assembly (x86/x64)` `html / css / js / php / sql` |
+| **Languages** | `Python` `C / C++` `PowerShell` `Assembly (x86/x64)` `Webdev` `Rust` `JAVA` |
 | **Analysis & Reversing** | `Ghidra` `Wireshark` `x64dbg` `Sysinternals` `Autopsy ` `enum4linux` `WinPEAS ` |
 | **Cracking** | `Hashcat ` `hydra` `Aircrack-ng`|
 | **Environments** | `Windows Server` / `REDHATLinux` |
