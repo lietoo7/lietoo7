@@ -1,0 +1,87 @@
+<svg fill="none" viewBox="0 0 850 140" width="100%" height="140" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .banner-container {
+          width: 100%;
+          height: 140px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          /* Fond tech sombre raffiné */
+          background: linear-gradient(135deg, #0f172a, #1e293b, #0f172a);
+          border-radius: 10px;
+          overflow: hidden;
+          position: relative;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+        }
+
+        /* Effet de lueur de terminal subtil */
+        .banner-container::after {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: repeating-linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) 1px, transparent 1px, transparent 2px);
+          pointer-events: none;
+        }
+
+        .title-wrapper {
+          text-align: center;
+          position: relative;
+          z-index: 1;
+        }
+
+        .title {
+          font-family: 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
+          font-size: 30px;
+          font-weight: 800;
+          color: #f1f5f9; /* Blanc cassé pour le texte principal */
+          margin: 0;
+          letter-spacing: 1.5px;
+          text-shadow: 0 0 10px rgba(16, 185, 129, 0.6); /* Lueur phosphor green subtile */
+        }
+
+        .tag {
+          color: #10b981; /* Phosphor Green pour les tags et le séparateur */
+          font-weight: 800;
+        }
+
+        .separator {
+          color: #10b981;
+          margin: 0 15px;
+          opacity: 0.8;
+        }
+
+        .background-matrix {
+          position: absolute;
+          font-family: monospace;
+          font-size: 10px;
+          color: rgba(16, 185, 129, 0.05); /* Fond matrix très subtil */
+          white-space: nowrap;
+          pointer-events: none;
+          animation: matrixScroll 120s linear infinite;
+        }
+
+        @keyframes matrixScroll {
+          0% { transform: translate(0, 0); }
+          100% { transform: translate(-10%, 10%); }
+        }
+      </style>
+
+      <div class="banner-container">
+        <!-- Fond de données matrix abstrait et très discret -->
+        <div class="background-matrix">
+          0F 17 2A 1E 29 3B 0F 17 2A 00 00 FF AA BB CC DD EE FF 11 22 33 44 55 66 77 88 99 00 AA BB CC DD EE FF 11 22 33 44 55 66 77 88 99 00 <br/>
+          0A 0B 0C 0D 0E 0F 11 22 33 44 55 66 77 88 99 00 AA BB CC DD EE FF 11 22 33 44 55 66 77 88 99 00 AA BB CC DD EE FF 11 22 33 44 55 66 <br/>
+          10 B9 81 FF F1 F5 F9 0F 17 2A AA BB CC DD EE FF 11 22 33 44 55 66 77 88 99 00 AA BB CC DD EE FF 11 22 33 44 55 66 77 88 99 00 AA BB
+        </div>
+        <div class="title-wrapper">
+          <h1 class="title"><span class="tag">[</span>Lietoo7<span class="tag">]</span><span class="separator">|</span>Cybersecurity R&amp;D</h1>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
