@@ -12,6 +12,7 @@ I am a security enthusiast focused on malware analysis, reverse engineering, ele
 | **HardWare** | `Flipper0` `RaspberryPi` `Arduino` `esp32` |
 | **Environments** | `Windows Server` / `REDHATLinux` |
 | **Monitoring&Supervision** | `Prometheus ` `Zabbix` `Grafana ` `Graphite` `ntopng ` `ELK stack` |
+| **SOC Tech&Env** | `Splunk` `ELK stack` |
 | **Framework** | `MITRE ATT&CK` `Kill Chain` `DREAD ` `MISP ` |
 
 <p align="center">
