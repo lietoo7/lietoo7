@@ -1,5 +1,7 @@
-# 🛡️ [Lietoo7] | Cybersecurity R&D
-
+<p align="center">
+  <img src="banner.svg" alt="[Lietoo7] | Cybersecurity R&D" width="100%">
+</p>
+<br>
 I am a security enthusiast focused on malware analysis, reverse engineering, electronics, and low-level development. I use this GitHub space to share my projects, document my research, publish tools, and track my continuous learning journey.
 
 ### 🛠️ Tech Stack & Toolbox
