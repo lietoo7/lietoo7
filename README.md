@@ -18,6 +18,4 @@ I am a security enthusiast focused on malware analysis, reverse engineering, ele
 | **SOC Tech&Env** | `Splunk` `ELK stack` |
 | **Framework** | `MITRE ATT&CK` `Kill Chain` `DREAD ` `MISP ` |
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lietoo7&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+ 
